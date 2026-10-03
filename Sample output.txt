@@ -1,0 +1,5 @@
+Sample output
+Enter a number: 5
+   Odd
+Enter a number: 6
+   Even
